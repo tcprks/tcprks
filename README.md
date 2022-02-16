@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tcprks
-- 👀 I’m interested in Security
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m perpetual learner
+- 🌱 I’m Netsec guy by progession
+- 💞️ I’m intrested in Offensive security topics
+- 📫  reach me on my Discord
 
 <!---
 tcprks/tcprks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
