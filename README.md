@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tcprks
 - 👀 I’m perpetual learner
-- 🌱 I’m Netsec guy by progession
+- 🌱 I’m Netsec guy by profession
 - 💞️ I’m intrested in Offensive security topics
 - 📫  reach me on my Discord
 
